@@ -1,0 +1,46 @@
+Bootcamps
+2020-1A - Engenharia de Dados
+2020-2B - Cientista de Dados
+2020-3A - Analista de Machine Learning
+2021-1A - Engenheiro de Software Ágil
+2021-2A - Agile Expert
+2021-3  - Analista de Banco de Dados
+2021-3  - Arquiteto Cloud Computing
+2021-4  - Engenheiro de Dados Cloud
+2021-4  - Analista de Dados
+2021-6A - Desenvolvedor Python
+2021-6A - Arquiteto de Soluções
+2022-1A - Arquiteto de Software
+2022-1A - Desenvolvedor Business Intelligence
+2022-2A - Gestor de Operações de TI
+2022-4A - Desenvolvedor NODE.JS (em andamento)
+2022-4A - Gerente de Projetos (em andamento)
+2022-5A - Desenvolvedor React (inscrito)
+
+Eventos
+2020-07 - Dev Summit
+2020-09 - Data Universe
+2020-11 - Cyber & Cloud Experience
+2021.02 - Dev Summit II
+2021.03 - Agile Days
+2021-04 - Data Universe II
+2021-06 - Cyber & Cloud Experience II
+2021-06 - Disruptive Revolution
+2021-07 - AI Today
+2021-08 - Dev Summit III
+2021-09 - Data Universe III
+2021-11 - Agile Days II
+2021-11 - DevOps & SRE Speedy
+2021-12 - Cyber Security Experience
+2022-01 - Cloud Conference
+2022-02 - Dev Summit Speedy
+2022-02 - Disruptive Revolution II
+2022-03 - Data Universe IV
+2022-04 - AI Today II
+2022-04 - Cyber Security Experience Speedy
+2022-05 - Agile Days III
+
+Imersões Internacionais
+2021-06 - Vale do Silício
+2021-08 - Agile World
+2022-01 - AI Solutions
