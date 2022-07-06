@@ -39,6 +39,10 @@ Eventos
 2022-04 - AI Today II
 2022-04 - Cyber Security Experience Speedy
 2022-05 - Agile Days III
+2022-05 - DevOps & SRE Speedy II
+2022-05 - Gestão Exponencial - Digital Day
+2022-06 - Dev Summit IV
+2022-06 - Product Future - PO e PM Speedy
 
 Imersões Internacionais
 2021-06 - Vale do Silício
