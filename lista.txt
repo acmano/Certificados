@@ -13,9 +13,11 @@ Bootcamps
 2022-1A - Arquiteto de Software
 2022-1A - Desenvolvedor Business Intelligence
 2022-2A - Gestor de Operações de TI
-2022-4A - Desenvolvedor NODE.JS (em andamento)
-2022-4A - Gerente de Projetos (em andamento)
+2022-4A - Desenvolvedor NODE.JS
+2022-4A - Gerente de Projetos
 2022-5A - Desenvolvedor React (inscrito)
+2022-7A - Desenvolvedor Mobile Multiplataformas
+2022-8A - Desenvolvedor Front End
 
 Eventos
 2020-07 - Dev Summit
@@ -44,6 +46,7 @@ Eventos
 2022-06 - Dev Summit IV
 2022-06 - Product Future - PO e PM Speedy
 2022-07 - Cyber Security Experience II
+2022-08 - Data Universe V
 
 Imersões Internacionais
 2021-06 - Vale do Silício
