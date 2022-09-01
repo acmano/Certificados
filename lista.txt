@@ -15,9 +15,11 @@ Bootcamps
 2022-2A - Gestor de Operações de TI
 2022-4A - Desenvolvedor NODE.JS
 2022-4A - Gerente de Projetos
-2022-5A - Desenvolvedor React (inscrito)
+2022-5A - Desenvolvedor React
 2022-7A - Desenvolvedor Mobile Multiplataformas
 2022-8A - Desenvolvedor Front End
+2022-8A - Gestor de Processos de Negógios
+2022-9A - Analista de Processos de Negócios
 
 Eventos
 2020-07 - Dev Summit
