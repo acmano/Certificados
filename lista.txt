@@ -21,6 +21,7 @@ Bootcamps
 2022-8A - Gestor de Processos de Negógios
 2022-9A - Analista de Processos de Negócios
 2022-10A- Analista de Inovação
+2022-11A- Experiência do Cliente
 
 Eventos
 2020-07 - Dev Summit
@@ -53,6 +54,7 @@ Eventos
 2022-08 - Data Universe V
 2022-09 - Cloud Conference II
 2022-10 - AI Today III
+2022-11 - Agile Days IV
 
 Imersões Internacionais
 2021-06 - Vale do Silício
