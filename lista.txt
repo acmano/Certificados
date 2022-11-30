@@ -1,4 +1,4 @@
-Bootcamps
+.Bootcamps
 2020-1A - Engenharia de Dados
 2020-2B - Cientista de Dados
 2020-3A - Analista de Machine Learning
@@ -21,6 +21,7 @@ Bootcamps
 2022-8A - Gestor de Processos de Negógios
 2022-9A - Analista de Processos de Negócios
 2022-10A- Analista de Inovação
+2022-11A- Profissional Azure Cloud COmputing
 
 Eventos
 2020-07 - Dev Summit
