@@ -1,4 +1,4 @@
-.Bootcamps
+Bootcamps
 2020-1A - Engenharia de Dados
 2020-2B - Cientista de Dados
 2020-3A - Analista de Machine Learning
@@ -21,11 +21,7 @@
 2022-8A - Gestor de Processos de Negógios
 2022-9A - Analista de Processos de Negócios
 2022-10A- Analista de Inovação
-<<<<<<< HEAD
-2022-11A- Profissional Azure Cloud COmputing
-=======
-2022-11A- Experiência do Cliente
->>>>>>> e6f780612208c53186d84d306010f838e024b5d7
+2022-11A- Profissional Azure Cloud Computing
 
 Eventos
 2020-07 - Dev Summit
@@ -58,6 +54,8 @@ Eventos
 2022-08 - Data Universe V
 2022-09 - Cloud Conference II
 2022-10 - AI Today III
+2022-11 - Agile Days IV
+2022-11 - DevOps e SRE - Speedy III
 2022-11 - Agile Days IV
 
 Imersões Internacionais
