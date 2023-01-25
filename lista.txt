@@ -22,6 +22,7 @@ Bootcamps
 2022-9A - Analista de Processos de Negócios
 2022-10A- Analista de Inovação
 2022-11A- Profissional Azure Cloud Computing
+2022-12A- Arquiteto de Machine Learning
 
 Eventos
 2020-07 - Dev Summit
@@ -57,6 +58,9 @@ Eventos
 2022-11 - Agile Days IV
 2022-11 - DevOps e SRE - Speedy III
 2022-11 - Agile Days IV
+2022-12 - Product Future - PO & PM Speedy II
+2022-12 - Dev Summit V
+2022-01 - Data Universe VI
 
 Imersões Internacionais
 2021-06 - Vale do Silício
