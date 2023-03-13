@@ -22,7 +22,9 @@ Bootcamps
 2022-9A - Analista de Processos de Negócios
 2022-10A- Analista de Inovação
 2022-11A- Profissional Azure Cloud Computing
-2022-12A- Arquiteto de Machine Learning
+2023-1A - Arquiteto de Machine Learning
+2023-2A - Experiência do Cliente
+2023-2A - Gestor de TI
 
 Eventos
 2020-07 - Dev Summit
