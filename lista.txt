@@ -25,6 +25,8 @@ Bootcamps
 2023-1A - Arquiteto de Machine Learning
 2023-2A - Experiência do Cliente
 2023-2A - Gestor de TI
+2023-4A - Engenheiro(a) de Machine Learning
+2023-5A - Arquiteto de Big Data
 
 Eventos
 2020-07 - Dev Summit
@@ -63,6 +65,7 @@ Eventos
 2022-12 - Product Future - PO & PM Speedy II
 2022-12 - Dev Summit V
 2023-01 - Data Universe VI
+
 
 Imersões Internacionais
 2021-06 - Vale do Silício
