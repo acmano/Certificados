@@ -25,8 +25,8 @@ Ok - 2022-11A- Profissional Azure Cloud Computing
 Ok - 2023-1A - Arquiteto de Machine Learning
 Ok - 2023-2A - Experiência do Cliente
 Ok - 2023-2A - Gestor de TI
-2023-4A - Engenheiro(a) de Machine Learning
-2023-5A - Arquiteto de Big Data
+Ok - 2023-4A - Engenheiro(a) de Machine Learning
+Ok - 2023-5A - Arquiteto de Big Data
 2023-6A - Cientista de Dados de Renda Fixa
 
 Eventos
